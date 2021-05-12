@@ -21,7 +21,7 @@ html, body { overflow-x: hidden;
  }
 body { font-family: 'Kumbh Sans', sans-serif; 
 	background-color: rgb(255, 180, 19);}
-div, a, p { color: #666666; }
+div, a, p { color: #fbff18; }
 p, address { line-height: 1.8; }
 a {	transition: all 0.3s ease; }
 a:hover {
